@@ -1,0 +1,2 @@
+This model predicts the loan approval with 82% accuracy on train set and 78.5% accuracy on unseen real world data. 
+Also this model ranks 1667 amoungs 64K on Analytics vidhya Hackathon plateform. 
